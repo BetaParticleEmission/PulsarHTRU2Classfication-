@@ -29,4 +29,4 @@ Run the following for proper procedure:
 4. `source .venv/bin/activate.ps1 (powershell) or source .venv/bin/activate (linux)`
 5. For Dash: `pip install Dash` and run with `python app.py`
 6. For quick dependency install: `pip install -r requirements.txt`
-\
+
